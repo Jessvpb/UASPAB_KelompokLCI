@@ -1,0 +1,18 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/jessicavpb/Documents/KULIAH/5/PAB1/flutter
+<<<<<<< Updated upstream
+FLUTTER_APPLICATION_PATH=/Users/jessicavpb/Documents/KULIAH/5/GitHub/UASPAB_KelompokLCI/project_uas
+=======
+FLUTTER_APPLICATION_PATH=/Users/jessicavpb/Downloads/Project_UAS_KelompokLCI-main/project_uas
+>>>>>>> Stashed changes
+COCOAPODS_PARALLEL_CODE_SIGN=true
+FLUTTER_TARGET=lib/main.dart
+FLUTTER_BUILD_DIR=build
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386
+EXCLUDED_ARCHS[sdk=iphoneos*]=armv7
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=.dart_tool/package_config.json
