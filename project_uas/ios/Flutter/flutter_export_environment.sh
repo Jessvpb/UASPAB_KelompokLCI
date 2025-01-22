@@ -1,11 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/jessicavpb/Documents/KULIAH/5/PAB1/flutter"
-<<<<<<< Updated upstream
-export "FLUTTER_APPLICATION_PATH=/Users/jessicavpb/Documents/KULIAH/5/GitHub/UASPAB_KelompokLCI/project_uas"
-=======
 export "FLUTTER_APPLICATION_PATH=/Users/jessicavpb/Downloads/Project_UAS_KelompokLCI-main/project_uas"
->>>>>>> Stashed changes
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
